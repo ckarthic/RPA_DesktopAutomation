@@ -1,0 +1,72 @@
+mouse left down,Spyder (Python 3.6),78,200,2.79,1523514133.759488
+mouse left up,Spyder (Python 3.6),78,200,2.87,1523514133.837871
+mouse left down,Spyder (Python 3.6),1683,214,4.23,1523514135.1965964
+mouse left up,Spyder (Python 3.6),1683,214,4.33,1523514135.2965784
+mouse left down,Spyder (Python 3.6),1678,870,5.68,1523514136.6468792
+mouse left up,Spyder (Python 3.6),1678,870,5.75,1523514136.7160187
+mouse left down,Spyder (Python 3.6),100,882,7.54,1523514138.5017667
+mouse left up,Spyder (Python 3.6),100,882,7.61,1523514138.572314
+mouse left down,Spyder (Python 3.6),139,221,9.01,1523514139.9797404
+mouse left up,Spyder (Python 3.6),139,221,9.11,1523514140.0711753
+mouse left down,Spyder (Python 3.6),1628,231,10.87,1523514141.8350956
+mouse left up,Spyder (Python 3.6),1628,231,10.93,1523514141.8938527
+mouse left down,Spyder (Python 3.6),1672,897,12.49,1523514143.4543774
+mouse left up,Spyder (Python 3.6),1672,897,12.57,1523514143.5336306
+mouse left down,Spyder (Python 3.6),122,875,14.28,1523514145.2474375
+mouse left up,Spyder (Python 3.6),122,875,14.35,1523514145.3164499
+done
+mouse left down,Type here to search,357,1052,2.45,1523514319.8917627
+mouse left up,Type here to search,356,1052,2.49,1523514319.9319534
+mouse left down,Type here to search,356,1052,2.5,1523514319.9475684
+mouse left up,Cortana,356,1052,2.6,1523514320.0489504
+mouse left down,Cortana,356,1052,2.61,1523514320.0533814
+mouse left up,Cortana,356,1052,2.62,1523514320.0690064
+key down,Cortana,Lshift,3.91,1523514321.3504424
+key down,Cortana,N,4.07,1523514321.513275
+key down,Cortana,O,4.28,1523514321.720886
+key down,Cortana,T,4.45,1523514321.8950095
+key down,Cortana,E,4.51,1523514321.9515502
+key down,Cortana,P,5.07,1523514322.516371
+key down,Cortana,A,5.17,1523514322.6164756
+key down,Cortana,D,5.36,1523514322.8077242
+key down,Cortana,Return,5.89,1523514323.3331075
+key down,Untitled - Notepad,K,8.86,1523514326.3033774
+key down,Untitled - Notepad,A,9.03,1523514326.4713707
+key down,Untitled - Notepad,R,9.08,1523514326.520658
+key down,Untitled - Notepad,T,9.26,1523514326.7050314
+key down,Untitled - Notepad,H,9.38,1523514326.8207977
+key down,Untitled - Notepad,I,9.44,1523514326.8833067
+key down,Untitled - Notepad,C,9.61,1523514327.0533473
+key down,Untitled - Notepad,Space,10.46,1523514327.905704
+key down,Untitled - Notepad,C,10.61,1523514328.0552797
+key down,Untitled - Notepad,H,10.72,1523514328.16836
+key down,Untitled - Notepad,A,10.82,1523514328.268577
+key down,Untitled - Notepad,N,10.96,1523514328.4062111
+key down,Untitled - Notepad,D,11.09,1523514328.5381768
+key down,Untitled - Notepad,R,11.26,1523514328.7043483
+key down,Untitled - Notepad,A,11.32,1523514328.7693613
+key down,Untitled - Notepad,N,13.27,1523514330.712523
+key down,Untitled - Notepad,Home,14.77,1523514332.2135627
+key down,Untitled - Notepad,Lshift,15.7,1523514333.1461453
+key down,Untitled - Notepad,End,16.72,1523514334.163873
+key down,Untitled - Notepad,Lcontrol,17.97,1523514335.4164672
+key down,Untitled - Notepad,C,18.24,1523514335.6831408
+key down,Untitled - Notepad,End,19.68,1523514337.1236153
+key down,Untitled - Notepad,Return,20.91,1523514338.357274
+key down,Untitled - Notepad,Lcontrol,21.63,1523514339.0708382
+key down,Untitled - Notepad,V,22.2,1523514339.6434786
+key down,Untitled - Notepad,Lcontrol,23.62,1523514341.068803
+key down,Untitled - Notepad,S,23.86,1523514341.300514
+key down,Save As,H,26.39,1523514343.835221
+key down,Save As,E,26.53,1523514343.9786205
+key down,Save As,L,26.67,1523514344.113822
+key down,Save As,L,27.21,1523514344.6532316
+key down,Save As,O,27.38,1523514344.824518
+key down,Save As,Return,29.67,1523514347.1128168
+key down,Confirm Save As,Tab,32.67,1523514350.1156828
+key down,Confirm Save As,Return,34.34,1523514351.7864685
+mouse left down,hello - Notepad,1757,32,39.81,1523514357.2520468
+mouse left up,hello - Notepad,1757,32,39.94,1523514357.3833582
+mouse left down,Spyder (Python 3.6),1906,873,43.9,1523514361.3410447
+mouse left up,Spyder (Python 3.6),1907,852,45.88,1523514363.3229756
+done
