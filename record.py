@@ -81,7 +81,7 @@ if __name__ == '__main__':
   
     print(len(sys.argv))
     try:
-        session_name = 'helloworld' #sys.argv[1]
+        session_name = 'SendOfferLetter' #sys.argv[1]
     except:
         print ('you must enter a name for the session\nfor example: python record.py session_name')
         sys.exit()
@@ -91,7 +91,7 @@ if __name__ == '__main__':
         os.makedirs(dir_path)
     
     
-    file_name = 'history.txt'
+    file_name = 'OfferLetterScripts.txt'
     file_path = os.path.join(dir_path, file_name)
     print (file_path)
 
